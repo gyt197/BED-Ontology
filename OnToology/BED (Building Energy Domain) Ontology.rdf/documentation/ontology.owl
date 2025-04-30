@@ -18,7 +18,7 @@
      xmlns:schema="http://schema.org/"
      xmlns:annotation_properties="https://sargon-n5geh.netlify.app/ontology/1.0/annotation_properties/">
     <owl:Ontology rdf:about="http://www.owl-ontologies.com/bed#">
-        <owl:versionIRI rdf:resource="http://www.owl-ontologies.com/beo#/v0.5.0"/>
+        <owl:versionIRI rdf:resource="http://www.owl-ontologies.com/bed#/v0.5.0"/>
         <dc:description>Ontology code created by Chowlk</dc:description>
         <dc:title>Building Energy Domain Ontology (BED)</dc:title>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-09T10:00:00</terms:created>

@@ -12258,7 +12258,7 @@
     "@value" : "bed"
   } ],
   "http://www.w3.org/2002/07/owl#versionIRI" : [ {
-    "@id" : "http://www.owl-ontologies.com/beo#/v0.5.0"
+    "@id" : "http://www.owl-ontologies.com/bed#/v0.5.0"
   } ],
   "https://w3id.org/mod#createdWith" : [ {
     "@id" : "https://chowlk.linkeddata.es/"
