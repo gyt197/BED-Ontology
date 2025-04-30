@@ -19,13 +19,12 @@
      xmlns:annotation_properties="https://sargon-n5geh.netlify.app/ontology/1.0/annotation_properties/">
     <owl:Ontology rdf:about="http://www.owl-ontologies.com/beo#">
         <owl:versionIRI rdf:resource="http://www.owl-ontologies.com/beo#/v0.5.0"/>
-        <dc:creator>Zhiyu Pan,Lei Zhao</dc:creator>
         <dc:description>Ontology code created by Chowlk</dc:description>
-        <dc:title>BuildingEnergyOntology (BEO)</dc:title>
+        <dc:title>BuildingEnergyDomainOntology (BED)</dc:title>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-09T10:00:00</terms:created>
         <terms:language>en</terms:language>
         <terms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-10T16:00:00</terms:modified>
-        <vann:preferredNamespacePrefix>beo</vann:preferredNamespacePrefix>
+        <vann:preferredNamespacePrefix>bed</vann:preferredNamespacePrefix>
         <mod:createdWith rdf:resource="https://chowlk.linkeddata.es/"/>
     </owl:Ontology>
     
