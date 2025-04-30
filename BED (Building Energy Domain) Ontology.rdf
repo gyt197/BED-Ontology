@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.owl-ontologies.com/beo#"
-     xml:base="http://www.owl-ontologies.com/beo"
+<rdf:RDF xmlns="http://www.owl-ontologies.com/bed#"
+     xml:base="http://www.owl-ontologies.com/bed"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:ns="http://creativecommons.org/ns#"
      xmlns:mod="https://w3id.org/mod#"
@@ -19,10 +19,10 @@
      xmlns:schema="http://schema.org/"
      xmlns:dcterms="http://purl.org/dc/terms/"
      xmlns:annotation_properties="https://sargon-n5geh.netlify.app/ontology/1.0/annotation_properties/">
-    <owl:Ontology rdf:about="http://www.owl-ontologies.com/beo#">
+    <owl:Ontology rdf:about="http://www.owl-ontologies.com/bed#">
         <owl:versionIRI rdf:resource="http://www.owl-ontologies.com/beo#/v0.5.0"/>
         <dc:description>Ontology code created by Chowlk</dc:description>
-        <dc:title>BuildingEnergyDomainOntology (BED)</dc:title>
+        <dc:title>Building Energy Domain Ontology (BED)</dc:title>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-09T10:00:00</dcterms:created>
         <dcterms:language>en</dcterms:language>
         <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-10T16:00:00</dcterms:modified>
