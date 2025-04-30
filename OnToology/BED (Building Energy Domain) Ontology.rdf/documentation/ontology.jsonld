@@ -12237,14 +12237,11 @@
 }, {
   "@id" : "http://www.owl-ontologies.com/beo#",
   "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
-  "http://purl.org/dc/elements/1.1/creator" : [ {
-    "@value" : "Zhiyu Pan,Lei Zhao"
-  } ],
   "http://purl.org/dc/elements/1.1/description" : [ {
     "@value" : "Ontology code created by Chowlk"
   } ],
   "http://purl.org/dc/elements/1.1/title" : [ {
-    "@value" : "BuildingEnergyOntology (BEO)"
+    "@value" : "BuildingEnergyDomainOntology (BED)"
   } ],
   "http://purl.org/dc/terms/created" : [ {
     "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -12258,7 +12255,7 @@
     "@value" : "2024-04-10T16:00:00"
   } ],
   "http://purl.org/vocab/vann/preferredNamespacePrefix" : [ {
-    "@value" : "beo"
+    "@value" : "bed"
   } ],
   "http://www.w3.org/2002/07/owl#versionIRI" : [ {
     "@id" : "http://www.owl-ontologies.com/beo#/v0.5.0"
