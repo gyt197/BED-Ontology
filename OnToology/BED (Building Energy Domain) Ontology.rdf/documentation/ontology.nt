@@ -1,12 +1,12 @@
-<http://www.owl-ontologies.com/beo#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
-<http://www.owl-ontologies.com/beo#> <http://www.w3.org/2002/07/owl#versionIRI> <http://www.owl-ontologies.com/beo#/v0.5.0> .
-<http://www.owl-ontologies.com/beo#> <http://purl.org/dc/elements/1.1/description> "Ontology code created by Chowlk" .
-<http://www.owl-ontologies.com/beo#> <http://purl.org/dc/elements/1.1/title> "BuildingEnergyDomainOntology (BED)" .
-<http://www.owl-ontologies.com/beo#> <http://purl.org/dc/terms/created> "2024-02-09T10:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-<http://www.owl-ontologies.com/beo#> <http://purl.org/dc/terms/language> "en" .
-<http://www.owl-ontologies.com/beo#> <http://purl.org/dc/terms/modified> "2024-04-10T16:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-<http://www.owl-ontologies.com/beo#> <http://purl.org/vocab/vann/preferredNamespacePrefix> "bed" .
-<http://www.owl-ontologies.com/beo#> <https://w3id.org/mod#createdWith> <https://chowlk.linkeddata.es/> .
+<http://www.owl-ontologies.com/bed#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://www.owl-ontologies.com/bed#> <http://www.w3.org/2002/07/owl#versionIRI> <http://www.owl-ontologies.com/beo#/v0.5.0> .
+<http://www.owl-ontologies.com/bed#> <http://purl.org/dc/elements/1.1/description> "Ontology code created by Chowlk" .
+<http://www.owl-ontologies.com/bed#> <http://purl.org/dc/elements/1.1/title> "Building Energy Domain Ontology (BED)" .
+<http://www.owl-ontologies.com/bed#> <http://purl.org/dc/terms/created> "2024-02-09T10:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.owl-ontologies.com/bed#> <http://purl.org/dc/terms/language> "en" .
+<http://www.owl-ontologies.com/bed#> <http://purl.org/dc/terms/modified> "2024-04-10T16:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.owl-ontologies.com/bed#> <http://purl.org/vocab/vann/preferredNamespacePrefix> "bed" .
+<http://www.owl-ontologies.com/bed#> <https://w3id.org/mod#createdWith> <https://chowlk.linkeddata.es/> .
 # 
 # 
 # #################################################################
